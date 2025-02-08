@@ -8,7 +8,7 @@
 % and through 2023 it is similarly successful at creating a spread in post-ranking betas. The traded
 % factor has a positive and significant alpha through 2023, consistent with liquidity risk being priced.
 %
-Month	Agg Liq.	Innov Liq (eq8)	Traded Liq (LIQ_V)
+% Month	Agg Liq.	Innov Liq (eq8)	Traded Liq (LIQ_V)
 196208	 -0.01753665	  0.00426023	-99
 196209	 -0.00407476	  0.01175717	-99
 196210	 -0.10421182	 -0.07412780	-99
